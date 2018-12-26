@@ -9,3 +9,5 @@ add_subdirectory(blockchain)
 add_subdirectory(client)
 
 # add_subdirectory(test)
+# Add other directories
+
